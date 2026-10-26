@@ -350,5 +350,12 @@
   "h": 60,
   "y": 99
  },
- "images": {}
+ "images": {},
+ "sections": [],
+ "pages": [],
+ "nav": {
+  "hide": [],
+  "order": []
+ },
+ "theme": {}
 }

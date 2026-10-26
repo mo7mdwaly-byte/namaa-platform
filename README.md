@@ -19,3 +19,6 @@ Open `admin.html`, enter `owner/repo` and a fine-grained token limited to this o
 
 ## Payments
 In the dashboard Products tab, paste each product's Egypt link (e.g. Paymob) and/or global link (e.g. Stripe Payment Link). The Buy button then opens the right checkout. Products with no links keep the demo cart. Update the footer note in Site content (`note`) when going live. The Royalties tab estimates author payouts from provider CSV exports.
+
+## Pages & sections
+Dashboard → Pages & sections: show/hide/reorder the menu, add pages, add text/cards/button sections (with images) to any page, and change theme colours. Stored in `content.json`.
