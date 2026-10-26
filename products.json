@@ -1,110 +1,110 @@
 [
- {
-  "id": "b1",
-  "en": "The Solution of 33 Closed Circles That Hold You Back From Success",
-  "ar": "الحل لـ33 دائرة مغلقة تعيقك عن النجاح",
-  "k": "paper",
-  "p": 18,
-  "m": 0,
-  "au": "house",
-  "rt": 0.6,
-  "status": "live",
-  "g": "s33",
-  "im": 1,
-  "pb": {
-   "en": "Ebhar Publishing House",
-   "ar": "دار إبهار للنشر"
+  {
+    "id": "b1",
+    "en": "The Solution of 33 Closed Circles That Hold You Back From Success",
+    "ar": "الحل لـ33 دائرة مغلقة تعيقك عن النجاح",
+    "k": "paper",
+    "p": 18,
+    "m": 0,
+    "au": "house",
+    "rt": 0.6,
+    "status": "live",
+    "g": "s33",
+    "im": 1,
+    "pb": {
+      "en": "Ebhar Publishing House",
+      "ar": "دار إبهار للنشر"
+    },
+    "st": {
+      "en": "The beginning of self-discovery and decision-making",
+      "ar": "بداية اكتشاف الذات واتخاذ القرار"
+    }
   },
-  "st": {
-   "en": "The beginning of self-discovery and decision-making",
-   "ar": "بداية اكتشاف الذات واتخاذ القرار"
-  }
- },
- {
-  "id": "b2",
-  "en": "The Solution of 33 Closed Circles (E-book)",
-  "ar": "الحل لـ33 دائرة مغلقة (رقمي)",
-  "k": "digital",
-  "p": 9,
-  "m": 0,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live",
-  "g": "s33",
-  "im": 1,
-  "pb": {
-   "en": "Ebhar Publishing House",
-   "ar": "دار إبهار للنشر"
+  {
+    "id": "b2",
+    "en": "The Solution of 33 Closed Circles (E-book)",
+    "ar": "الحل لـ33 دائرة مغلقة (رقمي)",
+    "k": "digital",
+    "p": 9,
+    "m": 0,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live",
+    "g": "s33",
+    "im": 1,
+    "pb": {
+      "en": "Ebhar Publishing House",
+      "ar": "دار إبهار للنشر"
+    },
+    "st": {
+      "en": "The beginning of self-discovery and decision-making",
+      "ar": "بداية اكتشاف الذات واتخاذ القرار"
+    }
   },
-  "st": {
-   "en": "The beginning of self-discovery and decision-making",
-   "ar": "بداية اكتشاف الذات واتخاذ القرار"
+  {
+    "id": "b3",
+    "en": "Habits That Stay",
+    "ar": "عادات تدوم",
+    "k": "digital",
+    "p": 7,
+    "m": 1,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live"
+  },
+  {
+    "id": "b4",
+    "en": "Calm Mind Workbook",
+    "ar": "دفتر العقل الهادئ",
+    "k": "digital",
+    "p": 6,
+    "m": 1,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live"
+  },
+  {
+    "id": "b5",
+    "en": "Career Compass",
+    "ar": "بوصلة المسار المهني",
+    "k": "digital",
+    "p": 8,
+    "m": 2,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live"
+  },
+  {
+    "id": "b6",
+    "en": "Words That Connect",
+    "ar": "كلمات تصنع التواصل",
+    "k": "digital",
+    "p": 7,
+    "m": 3,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live"
+  },
+  {
+    "id": "b7",
+    "en": "Gratitude Pages",
+    "ar": "صفحات الامتنان",
+    "k": "paper",
+    "p": 14,
+    "m": 4,
+    "au": "house",
+    "rt": 0.6,
+    "status": "live"
+  },
+  {
+    "id": "c1",
+    "en": "The Success Mindset Method",
+    "ar": "دورة منهجية عقلية النجاح",
+    "k": "course",
+    "p": 49,
+    "m": 0,
+    "au": "house",
+    "rt": 0.7,
+    "status": "live"
   }
- },
- {
-  "id": "b3",
-  "en": "Habits That Stay",
-  "ar": "عادات تدوم",
-  "k": "digital",
-  "p": 7,
-  "m": 1,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live"
- },
- {
-  "id": "b4",
-  "en": "Calm Mind Workbook",
-  "ar": "دفتر العقل الهادئ",
-  "k": "digital",
-  "p": 6,
-  "m": 1,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live"
- },
- {
-  "id": "b5",
-  "en": "Career Compass",
-  "ar": "بوصلة المسار المهني",
-  "k": "digital",
-  "p": 8,
-  "m": 2,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live"
- },
- {
-  "id": "b6",
-  "en": "Words That Connect",
-  "ar": "كلمات تصنع التواصل",
-  "k": "digital",
-  "p": 7,
-  "m": 3,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live"
- },
- {
-  "id": "b7",
-  "en": "Gratitude Pages",
-  "ar": "صفحات الامتنان",
-  "k": "paper",
-  "p": 14,
-  "m": 4,
-  "au": "house",
-  "rt": 0.6,
-  "status": "live"
- },
- {
-  "id": "c1",
-  "en": "The Success Mindset Method",
-  "ar": "دورة منهجية عقلية النجاح",
-  "k": "course",
-  "p": 49,
-  "m": 0,
-  "au": "house",
-  "rt": 0.7,
-  "status": "live"
- }
 ]
