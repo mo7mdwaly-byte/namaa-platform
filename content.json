@@ -168,7 +168,9 @@
   "tm": "Terms & conditions",
   "ctc": "Contact & support",
   "tg": "Read. Learn. Grow.",
-  "soon": "Coming soon in the live version."
+  "soon": "Coming soon in the live version.",
+  "payeg": "Pay from Egypt",
+  "payglobal": "Pay from anywhere else"
  },
  "ar": {
   "shop": "المتجر",
@@ -339,7 +341,9 @@
   "tm": "الشروط والأحكام",
   "ctc": "التواصل والدعم",
   "tg": "اقرأ. تعلّم. انمُ.",
-  "soon": "قريبًا في النسخة الحية."
+  "soon": "قريبًا في النسخة الحية.",
+  "payeg": "الدفع من مصر",
+  "payglobal": "الدفع من أي مكان آخر"
  },
  "plans": {
   "m": 12,

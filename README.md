@@ -16,3 +16,6 @@ Open `admin.html`, enter `owner/repo` and a fine-grained token limited to this o
 
 ## Editable content
 `content.json` (all site text EN/AR, plan prices, image paths) and `products.json` (all products) are edited from the dashboard. Upload both once, then manage everything from `admin.html`.
+
+## Payments
+In the dashboard Products tab, paste each product's Egypt link (e.g. Paymob) and/or global link (e.g. Stripe Payment Link). The Buy button then opens the right checkout. Products with no links keep the demo cart. Update the footer note in Site content (`note`) when going live. The Royalties tab estimates author payouts from provider CSV exports.
