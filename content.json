@@ -16,7 +16,7 @@
   "cart": "Cart",
   "empty": "Nothing here yet.",
   "total": "Total",
-  "pay": "Pay (test mode)",
+  "pay": "Pay",
   "paid": "Done ✓",
   "dl": "Download",
   "les": "Lessons",
@@ -47,7 +47,7 @@
    "Read offline (planned)",
    "Cancel any time"
   ],
-  "get": "Subscribe (test)",
+  "get": "Subscribe",
   "active": "Active plan",
   "read": "Read",
   "listen": "Listen",
@@ -82,7 +82,7 @@
   "rvn": "Revenue",
   "pend": "Pending approval",
   "sales": "Sales",
-  "note": "Test mode: no real payments, files or video. Royalty rules are modeled on KDP (70%/35% e-books, 60% print). Live version needs a backend.",
+  "note": "Secure checkout powered by Payhip. Digital files are delivered right after payment.",
   "sample": [
    "Growth begins with a small decision, repeated every day. Notice the story you tell yourself, then choose one action that matches who you want to become.",
    "Habits are the quiet architecture of a life. Start so small that it feels almost silly, and let consistency do the heavy lifting.",
@@ -168,7 +168,7 @@
   "tm": "Terms & conditions",
   "ctc": "Contact & support",
   "tg": "Read. Learn. Grow.",
-  "soon": "Coming soon in the live version.",
+  "soon": "Coming soon",
   "payeg": "Pay from Egypt",
   "payglobal": "Pay from anywhere else"
  },
@@ -189,7 +189,7 @@
   "cart": "السلة",
   "empty": "لا شيء هنا بعد.",
   "total": "الإجمالي",
-  "pay": "ادفع (تجريبي)",
+  "pay": "ادفع",
   "paid": "تم ✓",
   "dl": "تنزيل",
   "les": "الدروس",
@@ -220,7 +220,7 @@
    "قراءة بلا إنترنت (قريبًا)",
    "إلغاء في أي وقت"
   ],
-  "get": "اشترك (تجريبي)",
+  "get": "اشترك",
   "active": "الباقة الفعّالة",
   "read": "اقرأ",
   "listen": "استمع",
@@ -255,7 +255,7 @@
   "rvn": "الإيرادات",
   "pend": "بانتظار الاعتماد",
   "sales": "المبيعات",
-  "note": "وضع تجريبي: لا دفع ولا ملفات ولا فيديو حقيقي. قواعد العائد على غرار KDP (٧٠٪/٣٥٪ للكتب الرقمية و٦٠٪ للورقي). النسخة الحية تحتاج خادمًا.",
+  "note": "دفع آمن عبر Payhip. تصلك الملفات الرقمية فور إتمام الدفع.",
   "sample": [
    "يبدأ النمو بقرار صغير يتكرر كل يوم. لاحظ القصة التي ترويها لنفسك، ثم اختر خطوة واحدة تشبه من تريد أن تكونه.",
    "العادات هي العمارة الهادئة للحياة. ابدأ بخطوة صغيرة حتى تبدو بسيطة، ودع الاستمرار يؤدي الباقي.",
@@ -341,7 +341,7 @@
   "tm": "الشروط والأحكام",
   "ctc": "التواصل والدعم",
   "tg": "اقرأ. تعلّم. انمُ.",
-  "soon": "قريبًا في النسخة الحية.",
+  "soon": "قريباً",
   "payeg": "الدفع من مصر",
   "payglobal": "الدفع من أي مكان آخر"
  },
@@ -354,7 +354,10 @@
  "sections": [],
  "pages": [],
  "nav": {
-  "hide": [],
+  "hide": [
+   "plans",
+   "cr"
+  ],
   "order": []
  },
  "theme": {}
