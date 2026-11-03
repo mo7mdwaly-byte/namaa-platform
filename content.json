@@ -170,7 +170,11 @@
   "tg": "Read. Learn. Grow.",
   "soon": "Coming soon",
   "payeg": "Pay from Egypt",
-  "payglobal": "Pay from anywhere else"
+  "payglobal": "Pay from anywhere else",
+  "cName": "Dr. Asmaa Waly",
+  "cPhone": "+971 55 106 4091",
+  "cEmail": "info@asmaawaly.com",
+  "cWeb": "www.asmaawaly.com"
  },
  "ar": {
   "shop": "المتجر",
@@ -343,7 +347,11 @@
   "tg": "اقرأ. تعلّم. انمُ.",
   "soon": "قريباً",
   "payeg": "الدفع من مصر",
-  "payglobal": "الدفع من أي مكان آخر"
+  "payglobal": "الدفع من أي مكان آخر",
+  "cName": "د. أسماء والي",
+  "cPhone": "+971 55 106 4091",
+  "cEmail": "info@asmaawaly.com",
+  "cWeb": "www.asmaawaly.com"
  },
  "plans": {
   "m": 12,
