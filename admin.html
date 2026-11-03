@@ -1,20 +1,20 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>NAMAA Dashboard</title>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Asmaa Waly Academy Dashboard</title>
 <style>
-:root{--bg:#fbf8f1;--c:#fff;--t:#183335;--m:#657475;--g:#073f42;--a:#c99b42;--l:#e8e3d8;--r:#b3261e;color-scheme:light dark}
-@media(prefers-color-scheme:dark){:root{--bg:#0a1f20;--c:#112b2c;--t:#eef0e8;--m:#9db0ac;--g:#0b6260;--l:#25403f}}
+:root{--bg:#fbf8f1;--c:#ffffff;--t:#172536;--m:#657475;--g:#062f5f;--a:#c99b42;--l:#e8e3d8;--r:#b3261e;color-scheme:light dark}
+@media(prefers-color-scheme:dark){:root{--bg:#091421;--c:#101d2d;--t:#eef0e8;--m:#9db0ac;--g:#17508f;--l:#243141}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:env(safe-area-inset-top) 0 40px}
 main{max-width:900px;margin:auto;padding:14px}h1{font-size:22px;margin:6px 0}h2{font-size:17px;margin:0 0 8px}
 .box{background:var(--c);border:1px solid var(--l);border-radius:14px;padding:14px;margin:12px 0}
 input,select,textarea{width:100%;font:inherit;padding:9px 12px;border-radius:10px;border:1px solid var(--l);background:var(--bg);color:var(--t);margin:4px 0}
 textarea{min-height:300px;font:13px/1.4 ui-monospace,monospace}
 button{font:inherit;cursor:pointer;border:1px solid var(--l);background:var(--c);color:var(--t);border-radius:999px;padding:8px 14px}
-.p{background:var(--g);color:#fff;border-color:var(--g);font-weight:700}.d{color:var(--r)}
-#tabs{display:flex;gap:6px;overflow-x:auto;margin:10px 0}#tabs .on{background:var(--a);color:#143b3b;border-color:var(--a);font-weight:700}
+.p{background:var(--g);color:#ffffff;border-color:var(--g);font-weight:700}.d{color:var(--r)}
+#tabs{display:flex;gap:6px;overflow-x:auto;margin:10px 0}#tabs .on{background:var(--a);color:#13253c;border-color:var(--a);font-weight:700}
 .row{display:flex;gap:8px;align-items:center;justify-content:space-between;flex-wrap:wrap}.m{color:var(--m);font-size:13px}
 .g2{display:grid;grid-template-columns:1fr 1fr;gap:8px}.it{padding:8px 0;border-top:1px solid var(--l)}
 .ok{color:#2e7d32}.bad{color:var(--r)}a{color:var(--a)}
 </style></head><body><main>
-<h1>NAMAA Dashboard</h1><div class="m">Private access via a fine-grained GitHub token limited to one repository.</div>
+<h1>Asmaa Waly Academy Dashboard</h1><div class="m">Private access via a fine-grained GitHub token limited to one repository.</div>
 <div id="login" class="box">
 <h2>Connect</h2>
 <input id="repo" placeholder="owner/repository (e.g. asmaa/namaa-platform)" autocomplete="off">
@@ -83,7 +83,7 @@ async function rld(f){if(!f)return;RC=csvp(await f.text());$("#view").innerHTML=
 function rad(){const n=+$("#r_n").value,a=+$("#r_a").value,x=+$("#r_x").value||1;RC.slice(1).forEach(r=>{const v=parseFloat(String(r[a]).replace(/[^0-9.\-]/g,""));if(isFinite(v)&&r[n])RY.push({name:r[n],usd:v*x})});RC=null;$("#view").innerHTML=ryv()}
 function rdl(){const {g}=rcalc(),q=s=>'"'+String(s).replace(/"/g,'""')+'"',L=["product,author,sales,gross_usd,royalty_pct,royalty_usd"].concat(g.map(x=>[q(x.p.en),q(x.p.au),x.n,x.gross.toFixed(2),RR[x.p.k],(x.gross*RR[x.p.k]/100).toFixed(2)].join(",")));const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([L.join("\n")],{type:"text/csv"}));a.download="royalties.csv";a.click()}
 
-const THV={"--bg": "#fbf8f1", "--t": "#183335", "--m": "#657475", "--g": "#073f42", "--g2": "#0b6260", "--a": "#c99b42", "--l": "#e8e3d8"};
+const THV={"--bg": "#fbf8f1", "--t": "#172536", "--m": "#657475", "--g": "#062f5f", "--g2": "#17508f", "--a": "#c99b42", "--l": "#e8e3d8"};
 async function pg(){try{const f=await api("/repos/"+R+"/contents/content.json");CS=f.sha;CT=JSON.parse(b64d(f.content))}catch(e){return '<div class="box bad">content.json not found in the repo.</div>'}CT.sections=CT.sections||[];CT.pages=CT.pages||[];CT.nav=CT.nav||{};CT.nav.hide=CT.nav.hide||[];CT.nav.order=CT.nav.order||[];CT.theme=CT.theme||{};return pgv()}
 const rr=()=>{$("#view").innerHTML=pgv()},BI=["shop","lib","plans","au","cr"];
 function pgv(){const nv=CT.nav,ord=nv.order.filter(x=>BI.includes(x)),o=ord.concat(BI.filter(x=>!ord.includes(x))),tgt=BI.map(k=>[k,CT.en[k]||k]).concat(CT.pages.map(p=>["pg:"+p.id,"Page: "+p.en]));
