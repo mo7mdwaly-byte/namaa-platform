@@ -174,7 +174,13 @@
   "cName": "Dr. Asmaa Waly",
   "cPhone": "+971 55 106 4091",
   "cEmail": "info@asmaawaly.com",
-  "cWeb": "www.asmaawaly.com"
+  "cWeb": "www.asmaawaly.com",
+  "st1v": "",
+  "st2v": "",
+  "st3v": "",
+  "st3l": "Rating",
+  "crsArt": "A.",
+  "cWa": ""
  },
  "ar": {
   "shop": "المتجر",
@@ -351,7 +357,13 @@
   "cName": "د. أسماء والي",
   "cPhone": "+971 55 106 4091",
   "cEmail": "info@asmaawaly.com",
-  "cWeb": "www.asmaawaly.com"
+  "cWeb": "www.asmaawaly.com",
+  "st1v": "",
+  "st2v": "",
+  "st3v": "",
+  "st3l": "التقييم",
+  "crsArt": "أ.",
+  "cWa": ""
  },
  "plans": {
   "m": 12,
@@ -368,5 +380,9 @@
   ],
   "order": []
  },
- "theme": {}
+ "theme": {},
+ "home": {
+  "order": [],
+  "hide": []
+ }
 }
